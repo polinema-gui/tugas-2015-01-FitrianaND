@@ -1,0 +1,10 @@
+c:\users\-\documents\visual studio 2013\Projects\mengubah_warna\mengubah_warna\bin\Debug\mengubah_warna.exe.config
+c:\users\-\documents\visual studio 2013\Projects\mengubah_warna\mengubah_warna\bin\Debug\mengubah_warna.exe
+c:\users\-\documents\visual studio 2013\Projects\mengubah_warna\mengubah_warna\bin\Debug\mengubah_warna.pdb
+c:\users\-\documents\visual studio 2013\Projects\mengubah_warna\mengubah_warna\bin\Debug\mengubah_warna.xml
+c:\users\-\documents\visual studio 2013\Projects\mengubah_warna\mengubah_warna\obj\Debug\mengubah_warna.Form1.resources
+c:\users\-\documents\visual studio 2013\Projects\mengubah_warna\mengubah_warna\obj\Debug\mengubah_warna.Resources.resources
+c:\users\-\documents\visual studio 2013\Projects\mengubah_warna\mengubah_warna\obj\Debug\mengubah_warna.vbproj.GenerateResource.Cache
+c:\users\-\documents\visual studio 2013\Projects\mengubah_warna\mengubah_warna\obj\Debug\mengubah_warna.exe
+c:\users\-\documents\visual studio 2013\Projects\mengubah_warna\mengubah_warna\obj\Debug\mengubah_warna.xml
+c:\users\-\documents\visual studio 2013\Projects\mengubah_warna\mengubah_warna\obj\Debug\mengubah_warna.pdb
